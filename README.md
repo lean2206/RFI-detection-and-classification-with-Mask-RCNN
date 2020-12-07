@@ -16,3 +16,7 @@ Specifically, this software detects every RFI present in the spectrogram and cla
 # System Architecture
 
 ![](system-architecture.PNG)
+
+# Visualization
+
+![](grafana.PNG)
