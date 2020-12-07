@@ -4,3 +4,10 @@ This project is a software capable of detecting and classifying radio frecuency 
 # Results
 
 ![](Results/res1.PNG)
+
+![](Results/res2.PNG)
+
+![](Results/res3.PNG)
+
+![](Results/res4.PNG)
+
