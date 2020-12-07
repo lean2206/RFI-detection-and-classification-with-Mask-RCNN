@@ -3,11 +3,4 @@ This project is a software capable of detecting and classifying radio frecuency 
 
 # Results
 
-
-https://github.com/leo696/RFI-detection-with-Mask-RCNN/blob/main/Results/res1.PNG
-
-https://github.com/leo696/RFI-detection-with-Mask-RCNN/blob/main/Results/res2.PNG
-
-https://github.com/leo696/RFI-detection-with-Mask-RCNN/blob/main/Results/res3.PNG
-
-https://github.com/leo696/RFI-detection-with-Mask-RCNN/blob/main/Results/res4.PNG
+![result 1](Results/res1.png)
