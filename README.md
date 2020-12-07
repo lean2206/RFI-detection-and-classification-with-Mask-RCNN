@@ -13,3 +13,6 @@ Specifically, this software detects every RFI present in the spectrogram and cla
 
 ![](Results/res4.PNG)
 
+# System Architecture
+
+![](system-architecture.PNG)
